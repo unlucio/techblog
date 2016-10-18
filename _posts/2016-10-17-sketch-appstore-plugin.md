@@ -7,6 +7,8 @@ categories: javascript, automation, appstore
 summary: automating appstore screenshots
 ---
 
+> TLTR: When facing long and repetitive tasks, automation is one of our best assets and friends, and team communication is the key for a greater level of efficiency.
+
 Publishing a mobile application, on the different stores out there, it can quickly turn into a chore.<br/>
 A single set of screenshots will be fine at the begunning, but delivering quality content for all the different stores might require a little more effort and you might quickly end up having a person spending hours on this.<br/>
 With 47 different supported languages here at Badoo, we turned to automation to help us speed up this process.
